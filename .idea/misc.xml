@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.12239583333333333" />
+        <entry key="app/src/main/res/drawable/comment_shape.xml" value="0.23981481481481481" />
+        <entry key="app/src/main/res/drawable/ic_chat.xml" value="0.24351851851851852" />
+        <entry key="app/src/main/res/drawable/ic_image.xml" value="0.14270833333333333" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.24537037037037038" />
+        <entry key="app/src/main/res/drawable/ic_like.xml" value="0.21481481481481482" />
+        <entry key="app/src/main/res/drawable/left_chat_shape.xml" value="0.2462962962962963" />
+        <entry key="app/src/main/res/drawable/online_status.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/postshape.xml" value="0.26458333333333334" />
+        <entry key="app/src/main/res/drawable/right_chat_shape.xml" value="0.2462962962962963" />
+        <entry key="app/src/main/res/drawable/round_nav.xml" value="0.12083333333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/addpost.xml" value="0.2484375" />
+        <entry key="app/src/main/res/layout/chat.xml" value="0.2484375" />
+        <entry key="app/src/main/res/layout/chat_left_card.xml" value="0.2484375" />
+        <entry key="app/src/main/res/layout/chat_right_card.xml" value="0.2484375" />
+        <entry key="app/src/main/res/layout/chatlist.xml" value="0.2484375" />
+        <entry key="app/src/main/res/layout/chatlist_card.xml" value="0.2484375" />
+        <entry key="app/src/main/res/layout/comment.xml" value="0.2484375" />
+        <entry key="app/src/main/res/layout/comment_card_view.xml" value="0.2484375" />
+        <entry key="app/src/main/res/layout/dashboard.xml" value="0.1111111111111111" />
+        <entry key="app/src/main/res/layout/edit.xml" value="0.2484375" />
+        <entry key="app/src/main/res/layout/fragment_add_post.xml" value="0.23822463768115942" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.23822463768115942" />
+        <entry key="app/src/main/res/layout/fragment_other_user.xml" value="0.12864583333333332" />
+        <entry key="app/src/main/res/layout/fragment_other_user_profile.xml" value="0.2484375" />
+        <entry key="app/src/main/res/layout/fragment_other_user_profile2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_user_profile.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/login.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/other_profile.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/other_profile1.xml" value="0.12760416666666666" />
+        <entry key="app/src/main/res/layout/otheruserprofile.xml" value="0.2484375" />
+        <entry key="app/src/main/res/layout/register.xml" value="0.2484375" />
+        <entry key="app/src/main/res/layout/splash_screen.xml" value="0.2328125" />
+        <entry key="app/src/main/res/layout/user_card_view.xml" value="0.2484375" />
+        <entry key="app/src/main/res/layout/verify.xml" value="0.2484375" />
+        <entry key="app/src/main/res/menu/chatbutton.xml" value="0.2484375" />
+        <entry key="app/src/main/res/menu/delete.xml" value="0.17" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.2484375" />
+        <entry key="app/src/main/res/menu/user_profile_menu.xml" value="0.2484375" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12239583333333333" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.12239583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

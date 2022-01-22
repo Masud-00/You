@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/myNavHost"
+        android:name="androidx.navigation.fragment.NavHostFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/navbar"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="-2dp"
+        android:layout_marginBottom="2dp"
+        app:defaultNavHost="true"
+        app:navGraph="@navigation/navigation"
+        android:layout_alignParentLeft="true" />
+
+
+
+    <com.ismaeldivita.chipnavigation.ChipNavigationBar
+        android:id="@+id/navbar"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/round_nav"
+        app:itemIconTint="#ffff"
+        app:itemTextColor="#ffff"
+        app:cnb_menuResource="@menu/menu"
+        tools:ignore="MissingClass" />
+
+</RelativeLayout>
+</layout>
