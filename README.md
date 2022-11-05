@@ -30,7 +30,7 @@ Post:
 
 
 
-Peofile:
+Profile:
 
 
 <img src="https://user-images.githubusercontent.com/70429079/200106905-b0da40c3-1840-4ae6-91e7-22da7cb8383d.jpg" width="200" height="400">
