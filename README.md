@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/70429079/182101930-5684e7a1-95c9-4345-
 Login:
 
 
-<img src="https://user-images.githubusercontent.com/70429079/200106769-7787a63b-77db-4697-9bc0-0d47e1c78b96.jpg" width="200" height="300">
+<img src="https://user-images.githubusercontent.com/70429079/200106769-7787a63b-77db-4697-9bc0-0d47e1c78b96.jpg" width="200" height="400">
 
 
 Register:
