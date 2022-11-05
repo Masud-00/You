@@ -12,35 +12,35 @@ Login:
 Register:
 
 
-![Screenshot_20221105_121033](https://user-images.githubusercontent.com/70429079/200106804-88a0d57e-6540-4d59-bc28-59cbc3fef4b9.jpg)
+<img src="https://user-images.githubusercontent.com/70429079/200106804-88a0d57e-6540-4d59-bc28-59cbc3fef4b9.jpg" width="200" height="400">
 
 
 Home:
 
 
 
-![Screenshot_20221105_121009](https://user-images.githubusercontent.com/70429079/200106815-66fdfdec-e33a-4cf9-b955-f9e2bc081f95.jpg)
+<img src="https://user-images.githubusercontent.com/70429079/200106815-66fdfdec-e33a-4cf9-b955-f9e2bc081f95.jpg" width="200" height="400">
 
 
 
 Post:
 
 
-![Screenshot_20221105_121248](https://user-images.githubusercontent.com/70429079/200106861-053fce46-31b9-4dca-a664-fdce38a30af3.jpg)
+<img src="https://user-images.githubusercontent.com/70429079/200106861-053fce46-31b9-4dca-a664-fdce38a30af3.jpg" width="200" height="400">
 
 
 
 Peofile:
 
 
-![Screenshot_20221105_121136](https://user-images.githubusercontent.com/70429079/200106905-b0da40c3-1840-4ae6-91e7-22da7cb8383d.jpg)
+<img src="https://user-images.githubusercontent.com/70429079/200106905-b0da40c3-1840-4ae6-91e7-22da7cb8383d.jpg" width="200" height="400">
 
 
 User Profile:
 
 
 
-![Screenshot_20221105_121059](https://user-images.githubusercontent.com/70429079/200106945-1f494f67-6fa1-4f73-869d-5c6510475cd6.jpg)
+<img src="https://user-images.githubusercontent.com/70429079/200106945-1f494f67-6fa1-4f73-869d-5c6510475cd6.jpg" width="200" height="400">
 
 
 
@@ -48,7 +48,7 @@ Edit:
 
 
 
-![Screenshot_20221105_121121](https://user-images.githubusercontent.com/70429079/200106962-ce6b69cf-8d63-46ec-b881-6ba84f0c7469.jpg)
+<img src="https://user-images.githubusercontent.com/70429079/200106962-ce6b69cf-8d63-46ec-b881-6ba84f0c7469.jpg" width="200" height="400">
 
 
 
@@ -56,13 +56,13 @@ Chat:
 
 
 
-![Screenshot_20221105_121154](https://user-images.githubusercontent.com/70429079/200106981-f1af670b-a69e-4ff9-8088-abe77d1a0cc4.jpg)
+<img src="https://user-images.githubusercontent.com/70429079/200106981-f1af670b-a69e-4ff9-8088-abe77d1a0cc4.jpg" width="200" height="400">
 
 
 
 Comment:
 
 
-![Screenshot_20221105_121217](https://user-images.githubusercontent.com/70429079/200106995-f12edc86-996b-4fd9-895d-bc5d1041a5d1.jpg)
+<img src="https://user-images.githubusercontent.com/70429079/200106995-f12edc86-996b-4fd9-895d-bc5d1041a5d1.jpg" width="200" height="400">
 
 
